@@ -8,7 +8,7 @@
     font-family: 'Kaisei Opti';
     font-style: normal;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
     letter-spacing: 0.2em;
     color: #D5FF37;
@@ -16,16 +16,17 @@
 }
 
 .city-text {
-    width: 43%;
+    white-space: pre-line;
+    width: 50%;
     font-family: 'Kaisei Opti';
     font-style: normal;
     font-weight: 500;
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 30px;
+    line-height: 40px;
     letter-spacing: 0.15em;
     color: #E6E6E6;
     margin-left: 155px;
-    margin-top: 100px;
+    margin-top: 80px;
     position: relative;
     z-index: 1;
 }
@@ -33,7 +34,7 @@
 .map {
     position: absolute;
     z-index: 0;
-    top: 0;
-    right: 0;
-    width: 1000px;
+    top: 10%;
+    right: 0%;
+    width: 900px;
 }

@@ -3,4 +3,5 @@
     background-size: cover;
     height: 100vh;
     background-attachment: fixed;
+    scroll-behavior: smooth;
 }
