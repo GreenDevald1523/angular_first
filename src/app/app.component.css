@@ -1,0 +1,6 @@
+.section__first {
+    background: url('../assets/derevo.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}

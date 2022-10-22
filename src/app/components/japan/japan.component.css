@@ -1,0 +1,22 @@
+.japan-container {
+    position: absolute;
+    right: 156px;
+    top: 470px;
+}
+
+.japan {
+    font-family: 'Kaisei Opti';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #D5FF37;
+    display: block;
+}
+
+.japan-sub {
+    font-size: 30px;
+    position: relative;
+    bottom: 15px;
+}
