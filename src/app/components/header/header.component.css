@@ -1,16 +1,16 @@
 .menu {
-    display: flex;
-    justify-content: end;
+  display: flex;
+  justify-content: end;
 }
 
 .menu__item {
-    margin-right: 64px;
-    font-family: 'Kaisei Opti';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 52px;
-    text-align: center;
-    letter-spacing: 0.1em;
-    color: #FFFFFF;
+  margin-right: 64px;
+  font-family: 'Kaisei Opti';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 52px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: red;
 }
